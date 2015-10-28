@@ -12,5 +12,5 @@ movie you weren't a fan of and give us some reasons why.
 * [Ed, Edd, N Eddy Big Picture Show](https://github.com/caledelaura/moviereviews/blob/master/ed%2Ceddneddy'sbigpictureshow)
 * [The Martian](https://github.com/caledelaura/moviereviews/blob/master/themartian)
 * [Avatar](https://github.com/caledelaura/moviereviews/blob/master/avatar)
-* [The Seven Brides for Seven Brothers] (https://github.com/caledelaura/moviereviews/blob/master/sevenbridesforsevenbrothers.txt)
+* [Seven Brides for Seven Brothers](https://github.com/caledelaura/moviereviews/blob/master/sevenbridesforsevenbrothers)
 * [Interstellar](https://github.com/caledelaura/moviereviews/blob/master/interstellar)
