@@ -9,7 +9,7 @@ movie you weren't a fan of and give us some reasons why.
 * [The Nightmare Before Christmas](https://github.com/caledelaura/moviereviews/blob/master/thenightmarebeforechristmas)
 * [Inception](https://github.com/caledelaura/moviereviews/blob/master/Inception)
 * [Crimson Peak](https://github.com/caledelaura/moviereviews/blob/master/crimsonpeak)
-* [Ed, Edd, N Eddy Big Picture Show](https://github.com/caledelaura/moviereviews/blob/master/Ed%2C%20Edd%20n%20Eddy's%20Big%20Picture%20Show)
+* [Ed, Edd, N Eddy Big Picture Show](https://github.com/caledelaura/moviereviews/blob/master/ed%2Ceddneddy'sbigpictureshow)
 * [The Martian](https://github.com/caledelaura/moviereviews/blob/master/themartian)
 * [Avatar](https://github.com/caledelaura/moviereviews/blob/master/avatar)
 * [The Seven Brides for Seven Brothers] (https://github.com/caledelaura/moviereviews/blob/master/sevenbridesforsevenbrothers.txt)
