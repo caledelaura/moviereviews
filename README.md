@@ -14,3 +14,4 @@ movie you weren't a fan of and give us some reasons why.
 * [Avatar](https://github.com/caledelaura/moviereviews/blob/master/avatar)
 * [Seven Brides for Seven Brothers](https://github.com/caledelaura/moviereviews/blob/master/sevenbridesforsevenbrothers)
 * [Interstellar](https://github.com/caledelaura/moviereviews/blob/master/interstellar)
+* [Girls Will Be Girls](https://github.com/caledelaura/moviereviews/blob/master/Girls%20Will%20Be%20Girls)
